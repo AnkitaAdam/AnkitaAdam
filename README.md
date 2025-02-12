@@ -28,6 +28,7 @@
 
 ## 🏆 Achievements  
 ✨ **Upcoming SDE Intern @BNY Mellon**  
+✨ **Interviewed for @Google for STEP Internship 2024** 
 
 ---
 ### 📊 LeetCode Stats  
