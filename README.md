@@ -30,9 +30,10 @@
 ✨ **Upcoming SDE Intern @BNY Mellon**  
 
 ---
-### 📊 LeetCode Stats  
 
-[![LeetCode Stats](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Ankya_1207)   
+### 🏆 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/<your_leetcode_username>?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/Ankya_1207/)
+  
 
 ---
 ### 📊 GFG Stats  
@@ -44,6 +45,6 @@
 
 ## 📫 Let's Connect!  
 📌 [LinkedIn](https://www.linkedin.com/in/ankitaadam)  
-📌 [Leetcode](https://leetcode.com/u/Ankya_1207/)
+📌 [Leetcode](https://leetcode.com/u/Ankya_1207/)<br>
 📌 [Twitter](https://x.com/Ankitaa1207)
 
