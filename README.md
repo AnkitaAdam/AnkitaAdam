@@ -43,7 +43,7 @@
 ---
 
 ## 📫 Let's Connect!  
-📌 [LinkedIn](https://www.linkedin.com/in/ankitaadam)  
+📌 [LinkedIn]([https://www.linkedin.com/in/ankitaadam](https://www.linkedin.com/in/ankita-adam-21a92a244/))  
 📌 [Leetcode](https://leetcode.com/u/Ankya_1207/)<br>
 📌 [Twitter](https://x.com/Ankitaa1207)
 
