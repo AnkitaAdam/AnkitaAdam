@@ -32,7 +32,7 @@
 ---
 
 ### 🏆 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/<your_leetcode_username>?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/Ankya_1207/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/<Ankya_1207>?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/Ankya_1207/)
   
 
 ---
