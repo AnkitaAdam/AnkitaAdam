@@ -30,8 +30,8 @@
 ✨ **Upcoming SDE Intern @BNY Mellon**  
 
 ---
-### 🏆 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Ankya_1207?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/Ankya_1207/)
+### 🏆 LeetCode Stats  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Ankya_1207?theme=dark&font=Karma)](https://leetcode.com/Ankya_1207/)
 
 ---
 ### 📊 GFG Stats  
