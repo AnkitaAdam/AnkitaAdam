@@ -8,14 +8,14 @@
 
 ## 🛠️ Tech Stack  
 
-**Languages:** Java, C++, SQL, Python, Javascript
-**Frameworks:** Spring, Spring MVC, Spring ORM, Spring JDBC, Spring Boot, Hibernate, Node.js, Express.js
-**Databases:** MySQL, SQLite, MongoDB 
-**Design Patterns:** MVC pattern, Factory pattern, Singleton pattern, Microservices: API Gateway
-**Tools:** Insomnia, Postman, Youtrack, PowerPoint, ORM Tools (Hibernate)
-**Platforms:** Visual Studio Code, Intellij IDEA, Eclipse
-**Version Control:** GitHub
-**Soft Skills:** Problem Solving, Rapport Building, People Management, Good Communication 
+**Languages:** Java, C++, SQL, Python, Javascript<br>
+**Frameworks:** Spring, Spring MVC, Spring ORM, Spring JDBC, Spring Boot, Hibernate, Node.js, Express.js<br>
+**Databases:** MySQL, SQLite, MongoDB <br>
+**Design Patterns:** MVC pattern, Factory pattern, Singleton pattern, Microservices: API Gateway<br>
+**Tools:** Insomnia, Postman, Youtrack, PowerPoint, ORM Tools (Hibernate)<br>
+**Platforms:** Visual Studio Code, Intellij IDEA, Eclipse<br>
+**Version Control:** Git<br>
+**Soft Skills:** Problem Solving, Rapport Building, People Management, Good Communication <br>
 
 ---
 
@@ -32,20 +32,13 @@
 ---
 ### 📊 LeetCode Stats  
 
-[![LeetCode Stats](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode-username)   
+[![LeetCode Stats](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Ankya_1207)   
 
 ---
 ### 📊 GFG Stats  
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-gfg-username) 
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ankitaadam2004) 
 
----
-
-### 🔥 My GitHub Stats  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnkitaAdam&theme=dark&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaAdam&layout=compact&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkitaAdam&show_icons=true&theme=dark)  
 
 ---
 
